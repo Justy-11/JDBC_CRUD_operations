@@ -1,7 +1,6 @@
 # JDBC_and_CRUD_operations
 
-<img src="output_screenshots/DEPARTMENT_before_delete.png" width="500" >
-<img src="output_screenshots/DEPT_LOCATIONS_before_delete.png" width="500" >
+<img src="output_screenshots/DEPARTMENT_before_delete.png" width="500" > <img src="output_screenshots/DEPT_LOCATIONS_before_delete.png" width="500" >
 
 * some of output screenshots are shown :point_up:
 #
