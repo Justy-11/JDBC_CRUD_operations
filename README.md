@@ -7,5 +7,5 @@
 
 <img src="output_screenshots/Screenshot%20(876).png" width="500" >
 
-* Implemented a java code to process insert, update and delete data in a particular table in SQL :point_up:
+* Implemented GUI to process insert, update and delete data in a particular table in SQL :point_up:
 * All the necessary steps are shown in 19_ENG_041_Assignment_2.pdf
